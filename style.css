@@ -20,4 +20,5 @@ button {
 
 textarea {
 	flex-grow: 1;
+	padding: 7px;
 }
