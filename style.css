@@ -1,0 +1,23 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	display: flex;
+	flex-direction: column;
+	width: 100vw;
+	height: 100vh;
+	overflow: hidden;
+	padding: 10px;
+	box-sizing: border-box;
+}
+
+button {
+	height: 50px;
+	margin-bottom: 10px;
+}
+
+textarea {
+	flex-grow: 1;
+}
